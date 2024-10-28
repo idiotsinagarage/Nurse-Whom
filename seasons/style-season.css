@@ -1,4 +1,9 @@
 .sub{
     font-size: 10px;
     font-style: italic;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+b{
+    font-size: 110%;
 }
