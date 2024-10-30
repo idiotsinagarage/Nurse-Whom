@@ -6,8 +6,13 @@ h1{
 h2{
     margin-top: 5px;
     margin-bottom: 5px;
+    font-size: 25px;
 }
 p{
     margin-left: 20%;
     margin-right: 20%;
+}
+.a{
+    font-style: bold;
+    font-size: 30px;
 }
