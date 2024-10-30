@@ -39,11 +39,12 @@ for i in range(0,len(lines)-1):
             mStr += "<h3><i>-" + temp[2:-2] + "-</i></h3>\n"
         else:
             #turning the line into dialogue
-            tArr = temp.split(": ")
+            tArr = temp.split(": ", 1)
             nm = tArr[0]
             if len(tArr) > 1:
                 mStr += "<p><b>" + nm.upper() + ": </b>" + tArr[1] + "</p>\n"
             else:
+                print("ERROR!!!!!!!!! (check result for location)")
                 mStr += "ERROR!\n"
     else:
         mStr += "<br>\n"
