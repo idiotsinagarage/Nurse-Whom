@@ -35,16 +35,16 @@ Nurse: People were in there!
 Commander: That is why it is all the more fun to blow it up!
 Nurse: No! Every one of those people had lives! You killed them all in one go, like it was child's play!
 Commander: Amazing isn't it?
-Nurse: You're coming with me in my 'RATIS'!
+Nurse: You're coming with me in my (RATIS)!
 Commander: Not yours if you stole it.
 Nurse: It is now!
-Commander: Why'd you have to steal a 'TYPE 69 RATIS'? The 'TYPE 98's are the newest.
+Commander: Why'd you have to steal a (TYPE 69 RATIS)? The (TYPE 98)s are the newest.
 Nurse: A gut feeling.
 Commander: None the less... I am still not going!
 Nurse: Yes you are!
 {The Commander flickers like a failing hologram and then fades out, leaving behind a glitching image of himself.}
 Nurse: No!
-Action Figures: [grabs the nurse's arm and pin him to the ground]
+Action Figures: [grabs the Nurse's arm and pin him to the ground]
 Action Figure 1: [in a deep robotic voice] Ready the device!
 Action Figure 2: Transporter ready!
 Nurse: N-n-n-no! I am not using one of-
@@ -53,10 +53,10 @@ Nurse: N-n-n-no! I am not using one of-
 ::ON A SPACESHIP::
 Nurse: -those! Now what have I gotten myself into?
 {The main console beeps.}
-Nurse: This is 'Temporal Ruler' technology!
-Commander: [walking out from behind a corner] Yes! This is my 'RATIS.' My first order of business is to break the 'LEPRECHAUN CIRCUIT' of your 'RATIS,' making it stuck as an Army Recruitment Box!
+Nurse: This is (TEMPORAL RULER) technology!
+Commander: [walking out from behind a corner] Yes! This is my (RATIS). My first order of business is to break the (LEPRECHAUN CIRCUIT) of your (RATIS), making it stuck as an Army Recruitment Box!
 Nurse: NO!
-Commander: I have a 'TYPE 98 RATIS.' I can do as I like! [flips lever]
+Commander: I have a (TYPE 98 RATIS). I can do as I like! [flips lever]
 Nurse: Monster.
 Commander: I thought we were friends.
 Nurse: We were... but you have hurt too many.
@@ -66,22 +66,22 @@ Commander: Not in my eyes.
 Nurse: Your eyes are wrong!
 Commander: I'm not the one being held by action figures.
 Nurse: How will I ever get out of this situation? Wait a second... I've never seen a console like this before.
-Commander: Yeah well this is the quality you get rom a 'TYPE 98 RATIS.'
+Commander: Yeah well this is the quality you get rom a (TYPE 98 RATIS).
 Nurse: I don't like it.
 Commander: You know, we can never go back now. We're criminals. They hate us.
-Nurse: The council of the 'CITY: DELL' is forgiving.
+Nurse: The council of the (CITY: DELL) is forgiving.
 Commander: Really?
 Nurse: NOPE! Just need to get you distracted!
 Commander: What does tha-
 {The action figures are no longer on The Nurse's arms but The Commander's.}
 Commander: NO!!!!
 Nurse: [opens doors] As people say... BYE!
-{He exits to realize the 'LEPRECHAUN CIRCUIT' disguised The Commander's 'RATIS' as a bathroom stall.}
-Nurse: Suiting. Now where is my 'RATIS?'
+{He exits to realize the (LEPRECHAUN CIRCUIT) disguised The Commander's (RATIS) as a bathroom stall.}
+Nurse: Suiting. Now where is my (RATIS)?
 {He runs out of the building to see he was only a few buildings down from the explosion. He walks out to see Flower standing there looking around to try to see anything.}
 Nurse: Flower, do you want to come with me?
 Flower: No.
-Nurse: Can I at least show you my 'RATIS?' It's a SPACE MACHINE!
+Nurse: Can I at least show you my (RATIS)? It's a SPACE MACHINE!
 Flower: Like... sure then...?
 Nurse: There it is... oh I forgot it still looked like this.
 Flower: It's an Army Recruitment Box.
@@ -93,5 +93,4 @@ Nurse: KIDNAP!
 Flower: No! Why?
 Nurse: I don't have a granddaughter so you need to be mine! WHO LIKES CAVE MEN?!
 Flower: This is worse than burglary!
-
 --{NEXT EPISODE: THE WOODEN PLANET}--
