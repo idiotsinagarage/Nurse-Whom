@@ -16,8 +16,7 @@ Nurse: Does the Prime move around a lot?
 Curtis: She stays guarding the escape pods.
 Nurse: Where's the main infestation?
 Curtis: They've spread all over the place.
-Nurse: Flower, Robert, we may be here a while. 
-Curtis: [proceeds down hall]
+Nurse: Flower, Robert, we may be here a while. Curtis [proceeds down hall]
 Nurse: Come along!
 Flower: [follows]
 
@@ -47,7 +46,7 @@ Robert: Why?
 Curtis: You don't know what Wildrum do?
 Nurse: Yeah.
 Flower: Nope.
-Curtis: They wait 'til someone falls asleep, then weld their eyes, nose, and mouth shut, causing them to suffocate.
+Curtis: They wait 'til someone falls asleep, then weld their eyes, nose, and mouth shit, causing them to suffocate.
 Nurse: Yeah, just about.
 Flower: Nurse, we need to leave right now!
 Robert: Not sure if we can.
