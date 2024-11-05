@@ -54,7 +54,7 @@ Matchstick: [is cut by several blades]
 Nurse: I caught cancer and now I'M FUCKING GLOWING! Is anyone going to look at me?
 Matchstick: [is trying to hack the blades, but collapses]
 Nurse: NO! I may have caner, but I still have a heart. Well, three to be exact. Now will someone get this cancer the fuck out of me?!
-Blades: |SELF DESTRUCT ACTIVATED|
+Blades: |SELF DESTRUCT ACTIVATED|.
 Nurse: Oh no.
 Furnace: Oh shi- [violently explodes]
 Flower: Are we going to be safe?
