@@ -87,7 +87,7 @@ Nurse: No. Now, who wants Martian Turkey?!
 Charlotte: Me.
 Nurse: Do you guys have birds here?
 Fire Battler: Uh n-no.
-Nurse: Oh... Buecause I heard a rumor that Mars has birds that could tell time.
+Nurse: Oh... Because I heard a rumor that Mars has birds that could tell time.
 Flower: Nurse... don't you d-
 Nurse: SHUT! CHRISTMAS ON MARS! Is that rumor anything you have heard?
 Fire Battler: No, um, why?
@@ -105,7 +105,7 @@ Nurse: CHRISTMAS...(on mars).
 Nurse: See! You do have birds.
 Fire Battler: They're not from Mars.
 Nurse: Where are they from?
-Fire Battler: (ORIGOS). These Pheonixes sometimes get caught in a tear in the astral plane.
+Fire Battler: (ORIGOS). These Phoenixes sometimes get caught in a tear in the astral plane.
 Nurse: Oh COOL!
 Fire Battler: It took just about everyone on Mars to take this guy down.
 Nurse: Well, Imma eat it in 3 seconds if you don't mind.
@@ -131,12 +131,12 @@ Nurse: Menacing name.
 Blaze: Thank you.
 Nurse: So do we do a ceremony or do we dig straight in? [to the gang] Christmas on Mars!
 Charlotte: We get it.
-Flower: Okay, can we head back now? We saw the Pheonix. We aren't going to eat it!
+Flower: Okay, can we head back now? We saw the Phoenix. We aren't going to eat it!
 Nurse: ...
 Matchstick: [comes back with plate of teeth strung together] Here you go.
 Nurse: Oooh! This looks nice.
 Charlotte: OH that's a thing we have to eat, heh.
-Nurse: Trust me this is going to be tasty. It's a Martian Chrismas dinner!
+Nurse: Trust me this is going to be tasty. It's a Martian Christmas dinner!
 Fire Battler 4: Yes, whatever than means. I'm Furnace. Nice to meet you.
 Nurse: Furnace! Nice to meet you. So what's in this dish. Don't answer that. [takes a bite]
 {The dish tastes of teeth.}
@@ -179,7 +179,7 @@ Lit: We're gonna eat the humans, but you, (TEMPORAL RULER), will be mounted on o
 Nurse: Ah, well now that the Christmas cheer is all but ruined, EVERYONE INTO THE JUNGLE!
 {Everyone but Nurse runs into the jungle.}
 Flower: [running away] When we aren't being hunted, I will kill you!
-Nurse: Now I did guarentee you one thing... [grabs Pheonix] SWIGGIDY SWIRD!!! COMING FOR THAT BIRD!!! [takes it with him into the jungle]
+Nurse: Now I did guarantee you one thing... [grabs Phoenix] SWIGGIDY SWIRD!!! COMING FOR THAT BIRD!!! [takes it with him into the jungle]
 Blaze: Five. Four. Three. Two. One.
 {The Fire Battlers prepare to chase after the gang.}
 --{NEXT EPISODE: THE EVIL JUNGLE}--
